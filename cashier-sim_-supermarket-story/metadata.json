@@ -1,0 +1,6 @@
+{
+  "name": "Cashier Sim: Supermarket Story",
+  "description": "Game 3D simulator kasir supermarket bergaya chibi imut dengan Three.js, kustomisasi karakter cewek/cowok, scan barang, dan hitung kembalian pelanggan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
